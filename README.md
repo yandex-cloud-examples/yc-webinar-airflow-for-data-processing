@@ -1,4 +1,7 @@
-В данном репозитории опубликованы материалы для семинара Обработка данных на Apache Airflow в Yandex Cloud (https://www.youtube.com/watch?v=jF3YemOVofQ).
+# Материалы вебинара «Обработка данных с помощью Apache Airflow в Yandex Cloud».
+
+В данном репозитории опубликованы материалы для семинара [Обработка данных с помощью Apache Airflow в Yandex Cloud](https://www.youtube.com/watch?v=jF3YemOVofQ).
+
 Общая архитектура стенда и описание процессов обработки данных изложены в видео.
 
 Ниже представлено два Airflow DAG файла:
